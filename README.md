@@ -1,1 +1,2 @@
 # CommandLineGame
+Authors: Soohoon Oh
