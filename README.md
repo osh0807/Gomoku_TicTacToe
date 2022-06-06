@@ -2,7 +2,7 @@
 
 Authors: Soohoon Oh; soohoonoh@wustl.edu Crystal Shin; crystal.shin@wustl.edu; Amy Kim; amykim@wustl.edu
 
-Usage: "Gomoku_TicTacToe [game name]"
+Usage: "Gomoku_TicTacToe.exe [game name]"
 ([game name] is either Gomoku or TicTacToe
 
 - Users can play Gomoku and TicTacToe via command line interface
